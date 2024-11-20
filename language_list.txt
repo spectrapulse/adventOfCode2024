@@ -19,3 +19,6 @@ F#
 Lua
 Vimscript
 Go
+Perl
+Ruby
+Pascal
