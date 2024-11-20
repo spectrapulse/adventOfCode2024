@@ -10,3 +10,5 @@ Here are the rules I set for myself:
 - Use a random language chosen by the `choose_language.sh` script
 - Not push any code from the current day on that repo
 - Not accept any outside contributions
+- If possible record myself coding the solution (will obviously not be possible
+  on days I work)
