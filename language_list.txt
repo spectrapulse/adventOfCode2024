@@ -7,7 +7,7 @@ Fortran
 Javascript
 Java
 Powershell
-Bash
+Scala
 PHP
 Haskell
 Clojure
