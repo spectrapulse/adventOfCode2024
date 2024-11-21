@@ -13,3 +13,4 @@ sleep 1
 choice=$(shuf -n 1 language_list.txt)
 echo $choice
 sed -i "/^$choice$/d" language_list.txt
+echo $choice >todays_language.txt
