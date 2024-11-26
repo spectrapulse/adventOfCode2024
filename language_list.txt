@@ -8,7 +8,6 @@ Javascript
 Java
 Powershell
 Scala
-PHP
 Haskell
 Clojure
 D
@@ -22,3 +21,4 @@ Go
 Perl
 Ruby
 Pascal
+Hack
