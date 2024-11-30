@@ -12,7 +12,6 @@ PHP
 Haskell
 Clojure
 D
-C3
 V
 R
 F#
