@@ -15,7 +15,6 @@ D
 V
 R
 F#
-Lua
 Vimscript
 Go
 Perl
