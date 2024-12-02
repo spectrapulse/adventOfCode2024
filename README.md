@@ -42,11 +42,11 @@ Here are the rules I set for myself:
     </tr>
     <tr>
         <td align="center">2</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center">00:36:40</td>
+        <td align="center">10808</td>
+        <td align="center">00:42:30</td>
+        <td align="center">01:21:10</td>
+        <td align="center">10426</td>
     </tr>
     <tr>
         <td align="center">3</td>
