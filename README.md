@@ -18,6 +18,7 @@ Here are the rules I set for myself:
 <table>
     <tr>
         <td align="center">-------</td>
+        <td align="center">-------</td>
         <td align="center">Part 1</td>
         <td align="center">--------</td>
         <td align="center">-------</td>
@@ -26,6 +27,7 @@ Here are the rules I set for myself:
     </tr>
     <tr>
         <td align="center">Day</td>
+        <td align="center">Language</td>
         <td align="center">Time(sec)</td>
         <td align="center">Rank</td>
         <td align="center">Delta Time</td>
@@ -34,6 +36,7 @@ Here are the rules I set for myself:
     </tr>
     <tr>
         <td align="center">1</td>
+        <td align="center">C3</td>
         <td align="center">00:38:04</td>
         <td align="center">8615</td>
         <td align="center">00:05:11</td>
@@ -42,6 +45,7 @@ Here are the rules I set for myself:
     </tr>
     <tr>
         <td align="center">2</td>
+        <td align="center">Lua</td>
         <td align="center">00:36:40</td>
         <td align="center">10808</td>
         <td align="center">00:42:30</td>
@@ -55,9 +59,11 @@ Here are the rules I set for myself:
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
+        <td align="center">-</td>
     </tr>
     <tr>
         <td align="center">4</td>
+        <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
@@ -71,9 +77,11 @@ Here are the rules I set for myself:
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
+        <td align="center">-</td>
     </tr>
     <tr>
         <td align="center">6</td>
+        <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
@@ -87,9 +95,11 @@ Here are the rules I set for myself:
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
+        <td align="center">-</td>
     </tr>
     <tr>
         <td align="center">8</td>
+        <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
@@ -103,9 +113,11 @@ Here are the rules I set for myself:
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
+        <td align="center">-</td>
     </tr>
     <tr>
         <td align="center">10</td>
+        <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
@@ -119,9 +131,11 @@ Here are the rules I set for myself:
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
+        <td align="center">-</td>
     </tr>
     <tr>
         <td align="center">12</td>
+        <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
@@ -135,9 +149,11 @@ Here are the rules I set for myself:
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
+        <td align="center">-</td>
     </tr>
     <tr>
         <td align="center">14</td>
+        <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
@@ -151,9 +167,11 @@ Here are the rules I set for myself:
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
+        <td align="center">-</td>
     </tr>
     <tr>
         <td align="center">16</td>
+        <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
@@ -167,9 +185,11 @@ Here are the rules I set for myself:
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
+        <td align="center">-</td>
     </tr>
     <tr>
         <td align="center">18</td>
+        <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
@@ -183,9 +203,11 @@ Here are the rules I set for myself:
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
+        <td align="center">-</td>
     </tr>
     <tr>
         <td align="center">20</td>
+        <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
@@ -199,9 +221,11 @@ Here are the rules I set for myself:
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
+        <td align="center">-</td>
     </tr>
     <tr>
         <td align="center">22</td>
+        <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
@@ -215,9 +239,11 @@ Here are the rules I set for myself:
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
+        <td align="center">-</td>
     </tr>
     <tr>
         <td align="center">24</td>
+        <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
@@ -231,9 +257,11 @@ Here are the rules I set for myself:
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
+        <td align="center">-</td>
     </tr>
     <tr>
         <td align="center">AVG</td>
+        <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
