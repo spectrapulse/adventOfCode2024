@@ -54,7 +54,7 @@ Here are the rules I set for myself:
     </tr>
     <tr>
         <td align="center">3</td>
-        <td align="center">-</td>
+        <td align="center">F#</td>
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>

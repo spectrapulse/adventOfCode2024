@@ -14,7 +14,6 @@ Clojure
 D
 V
 R
-F#
 Vimscript
 Go
 Perl
