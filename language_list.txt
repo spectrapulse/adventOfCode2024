@@ -6,7 +6,7 @@ Rust
 Fortran
 Javascript
 Java
-Powershell
+OCaml
 Scala
 PHP
 Haskell
