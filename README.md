@@ -63,7 +63,7 @@ Here are the rules I set for myself:
     </tr>
     <tr>
         <td align="center">4</td>
-        <td align="center">-</td>
+        <td align="center">R</td>
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>

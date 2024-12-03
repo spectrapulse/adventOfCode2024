@@ -13,7 +13,6 @@ Haskell
 Clojure
 D
 V
-R
 Vimscript
 Go
 Perl
