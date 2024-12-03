@@ -55,11 +55,11 @@ Here are the rules I set for myself:
     <tr>
         <td align="center">3</td>
         <td align="center">F#</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center">00:26:46</td>
+        <td align="center">9939</td>
+        <td align="center">00:24:02</td>
+        <td align="center">00:50:48</td>
+        <td align="center">9474</td>
     </tr>
     <tr>
         <td align="center">4</td>
