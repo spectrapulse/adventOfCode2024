@@ -17,4 +17,4 @@ Vimscript
 Go
 Perl
 Ruby
-Pascal
+Elixir
