@@ -6,7 +6,6 @@ Rust
 Fortran
 Javascript
 Java
-OCaml
 Scala
 PHP
 Haskell
