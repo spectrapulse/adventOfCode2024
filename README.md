@@ -63,12 +63,12 @@ Here are the rules I set for myself:
     </tr>
     <tr>
         <td align="center">4</td>
-        <td align="center">R</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center"><del>R</del> Python</td>
+        <td align="center">00:29:48</td>
+        <td align="center">6138</td>
+        <td align="center">00:09:15</td>
+        <td align="center">00:39:03</td>
+        <td align="center">4810</td>
     </tr>
     <tr>
         <td align="center">5</td>
