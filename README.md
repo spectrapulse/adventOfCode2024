@@ -81,7 +81,7 @@ Here are the rules I set for myself:
     </tr>
     <tr>
         <td align="center">6</td>
-        <td align="center">-</td>
+        <td align="center">C++</td>
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>

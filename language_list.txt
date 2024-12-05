@@ -1,7 +1,6 @@
 Zig
 Python
 C
-C++
 Rust
 Fortran
 Javascript
