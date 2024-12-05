@@ -72,12 +72,12 @@ Here are the rules I set for myself:
     </tr>
     <tr>
         <td align="center">5</td>
-        <td align="center">OCaml</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center"><del>OCaml</del> Python</td>
+        <td align="center">00:31:23</td>
+        <td align="center">6691</td>
+        <td align="center">00:26:46</td>
+        <td align="center">00:58:09</td>
+        <td align="center">6752</td>
     </tr>
     <tr>
         <td align="center">6</td>
