@@ -12,7 +12,6 @@ Clojure
 D
 V
 Vimscript
-Go
 Perl
 Ruby
 Elixir

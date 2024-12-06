@@ -90,7 +90,7 @@ Here are the rules I set for myself:
     </tr>
     <tr>
         <td align="center">7</td>
-        <td align="center">-</td>
+        <td align="center">Go</td>
         <td align="center">-</td>
         <td align="center">-</td>
         <td align="center">-</td>
