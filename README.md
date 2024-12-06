@@ -82,11 +82,11 @@ Here are the rules I set for myself:
     <tr>
         <td align="center">6</td>
         <td align="center">C++</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center">00:25:59</td>
+        <td align="center">5017</td>
+        <td align="center">00:47:58</td>
+        <td align="center">01:13:57</td>
+        <td align="center">4889</td>
     </tr>
     <tr>
         <td align="center">7</td>
